@@ -1,2 +1,2 @@
 # calculadora-js
-Calculadora feita em JavaScript com animations.
+Calculadora feita em JavaScript com CSS animations.
